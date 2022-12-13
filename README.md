@@ -8,7 +8,7 @@ Two .txt files are added:
 - export.txt is the JSON text to paste into the corresponding box on the BingoSync site. Do not modify anything inside, otherwise the chain will no longer work.
 
 ╔═════════════════════════════════╗
-║ Thank you for your confidence ! ║                      
+║ Thank you for your confidence ! ║                                                                                               
 ╚═════════════════════════════════╝
 
 @Cozmix - 12/13/22
